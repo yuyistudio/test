@@ -1,14 +1,7 @@
 import os, sys
 
-print("b1_modified");
-print("b1_modified");
-print("b1_modified");
-print("b1_modified");
-print("b1_modified");
-print("b1_modified");
-print("b1_modified");
-print("b1_modified");
-print("b1_modified");
-print("version1");
-print("b1_master_modified");
-print("Master Newest");
+print(1);
+print(2);
+print("Fresh Dev");
+
+print("main");
