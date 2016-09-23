@@ -7,3 +7,4 @@ print("Fresh Dev");
 print("main");
 print("amend");
 print("new");
+print("stash");
