@@ -5,3 +5,5 @@ print(2);
 print("Fresh Dev");
 
 print("main");
+print("amend");
+print("new");
